@@ -8,7 +8,7 @@ etc. */
 
 using System;
 
-class Palindrome
+class PalindromeString
 {
     static void Main(string[] args)
     {
